@@ -88,3 +88,16 @@ no puedan acompañarnos.
 
 Esta iniciativa ha sido creada por @WalterC_87 y @mikenieva con el apoyo y soporte de todos los miembros de la comunidad de FrontEnd
 y gracias a los locos de @mejorandola por impartir el curso de FrontEnd Profesional.
+
+---
+#Resumen HangOut 22 de junio 2013
+
+1. Para comenzar gracias a todos los que estuvieron presentes ese día, su participación y colaboración son de importancia para el desarrollo de la comunidad misma y para el futuro de nuestra aplicación no digamos jejeje.
+
+2. El día sábado dimos inicio al repaso de lo básico aprendido durante el curso de FrontEnd para que todos podamos repasar, nuestro colaborador Mike Nieva nos estuvo apoyando con la parte de inicio en GitHub, el repositorio oficial de la aplicación esta en github.com/mejorandolaclase/puls3, ese día los asistentes hicimos un fork al repositorio y empezamos a trabajar poco a poco en el proyecto.
+
+3. Se inicio la aplicación con la cabecera de la misma, se dejó la estructura semántica echa para que nosotros le demos el estilo y diseño que más nos guste, además se quedo de "tarea" que cada uno de nosotros va a realizar el diseño de la cabecera y la vamos a estar subiendo durante la semana esto nos servirá para repasara tanto lo básico como las estructuras semánticas que nos proporciona ahora HTML5.
+
+4. Este sábado si todo sale bien estaremos dando inicio al desarrollo del <body> de nuestra aplicación, así que traigan sugerencias y sus dudas para esta semana, así todos podremos avanzar en el desarrollo de la aplicación, quedamos también al pendiente de aprender por nuestra cuenta javascript para no tener problemas cuando lleguemos a la parte de Backbone.js.
+
+En retrospectiva esto fue lo más importante que se hablo durante el sábado, si alguno de los que estuvieron presente recuerdan algo más importante favor de hacerlo ver en sus comentarios sobre esta publicación y así tener un resumen semanal más concreto en nuestro GitHub. Saludos y a realizar la tarea para esta semana.
