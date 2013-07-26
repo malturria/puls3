@@ -1,3 +1,15 @@
+YouPuls3
+==========
+
+Modelo basado en las clases bonus de Siedrix y la clase de Walter explicando tips del bonus 
+todo sobre la base del proyecto PULS3 del curso MEJORFRONT
+
+FALTA : 
+
+- Implementar Bases de Datos
+- WebSocket
+
+
 Pic Puls3
 =====
 
